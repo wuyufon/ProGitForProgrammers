@@ -1,0 +1,90 @@
+ commit東西向道路 from N to S ::
+
+1    31.  highway9 - (400)   - 31 Davis Rd /
+
+2    [ Eagle St - (BayView Ave) - Gorham St] /
+
+3    74. 19th Sideroad - (38 Bathurst) - 74 Mulock - (404) - 74 Vivian Road /
+
+4    26. 18th Sideroad - (38 Bathurst) - 26 而恩St. John's Sideroad /
+
+5    15. 17th Sideroad - (53 Rufferin) - Wellington St W - (1 Yong) - Wellington St E - (404) - 15 Aurora Rd
+
+5    16th Sderoad -  (38 Bathurst) - Henderson Dr - (1 Yong) - Allaura Blvd向北彎交Edward St /
+
+6    40. 15th Sideroad - (38 Bathurst) -40 Bloomington Rd 向E交30上入47 /
+
+7    11. 9 King St E 向NE -(Caledon King Townline S) - 11 King Rd 向E止於 Yonge。**9>>11 /
+
+8    Vandorf Sideroad /
+
+9    Aurora avoid m
+
+10   40 Bloomington Rd. /
+
+11   11 King Rd. /
+
+12   14 King Vaughan Rd.東止於 (38 Bathurst) - Milos Rd - (過湖,學校) - 14 Stouffville Rd /
+
+13   Jefferson Side Rd /
+
+14   Tower Hill Rd /
+
+15   29/19th. 西止於38Bathurst - 29 Gamble Rd - (1 Yonge) - 29 19th Ave. /
+
+16   41   69 49Teston Rd - (38 Bathurst) - 49 Elgin Mills Rd W - (1 Yonge) - 49 Elgin Mills Rd E - 止於30 York Durham Line /
+
+17   25.  25Major MacKenzie Dr. - 東止於 york Durham Line /
+
+18   Weldrick Rd
+
+19   73  73Rutherford Rd - (38 Bathurst) - Carrville Rd - (1 Yonge) - 16th Ave - 東止於 york Durham Line /
+
+20   7/3 Hwy7/Hwy3 [ Langstaff Rd ]  Hwy7/7Winchester Rd W - (12) - 3Winchester Rd E /
+
+21   407 /
+
+22   Centr St - John St /
+
+23   Steeles Av /
+
+24   Finch Av /
+
+25   Sheppard Av /
+
+26   401 /
+
+27   York Mill Rd /
+
+28   Lawyance Av /
+
+
+
+******
+
+
+   南北向道路 from W to  E
+
+
+Highway 427
+10 Hurontario st.
+Highway 50
+27
+Isbinton Av
+Pine Valley Rd
+56 Weston Rd
+400
+55 Jane Rd
+6   Keele St
+53 Dufferin St
+38 Bathuest St
+1    Yonge St
+34  Bayview Av
+12  Leislei St
+404
+8    Woodbine Ave
+65  Warden Ave
+
+Kennedy Rd
+Maccouman Av
+48 
